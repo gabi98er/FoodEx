@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Mail</string>
+    <string name="phone">Phone</string>
+    <string name="adress">Adress</string>
+    <string name="postalCode">Postal Code</string>
+    <string name="loginhere">Already have an account? <ul>Login</ul></string>
+    <string name="title_activity_restaurant_list">RestaurantList</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
